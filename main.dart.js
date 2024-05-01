@@ -93908,7 +93908,7 @@ $.aHe=null
 $.awg=null
 $.aE8=0
 $.aDJ=0
-$.pI="en-US"
+$.pI="fa-IR"
 $.aEq=null
 $.aEo=null
 $.aEp=null})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
@@ -94316,7 +94316,7 @@ s($,"aZJ","aJQ",()=>new A.adI())
 r($,"aZf","aJz",()=>{var q=null
 return A.akA(B.bC.t6(B.l,13,B.bd),q,q,B.bC.t6(B.l,28,B.bd),B.bC.t6(B.l,20,B.bd),B.bC.t6(B.l,15,B.fK),q,q,q,q,q,q,B.bC.t6(B.l,19,B.fK),q,q)})
 s($,"b1V","aC2",()=>A.aP4())
-r($,"b1h","aLq",()=>A.aPR("en","US"))
+r($,"b1h","aLq",()=>A.aPR("fa","IR"))
 s($,"b_T","aKC",()=>{var q,p=J.oK(256,t.N)
 for(q=0;q<256;++q)p[q]=B.d.is(B.e.he(q,16),2,"0")
 return p})
